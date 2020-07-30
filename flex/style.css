@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .row-container{
+    width: 940px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    margin:10px auto;
+  }
+
+  .box {
+    outline: 1px solid #000;
+    height: 30px;
+  }
+
+  .box3,.box5,.box7,.box9,.box11,.box13,.box15,.box16,.box17,.box19,.box20,.box21{margin-left: 20px;}
+
+  .box1 {flex: 12;}
+  .box2 {flex: 1;}
+  .box3 {flex: 11;}
+  .box4{flex: 2;}
+  .box5{flex: 10;}
+  .box6{flex: 3;}
+  .box7{flex: 9;}
+  .box8{flex:4;}
+  .box9{flex:8;}
+  .box10{flex:5;}
+  .box11{flex:6;}
+  .box12{flex:6;}
+  .box13{flex:6;}
+  .box14{flex:3}
+  .box15{flex: 3;}
+  .box16{flex: 1;}
+  .box17{flex: 5;}
+  .box18{flex:1}
+  .box19{flex:5}
+  .box20{flex: 3;}
+  .box21{flex: 3;}
